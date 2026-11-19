@@ -1,24 +1,11 @@
 ## Hi there 👋
 
-I am a programmer originating from Ukraine, my main hobbies are reversing and modding games (best at x86/x64, some little knowledge about ARM and PowerPC) and writing code (mainly Rust, C++ and Python, have experience with many other languages). 
+My name is GlitchyBoy I am a Freshman(9th Grade) programmer and software engineer/developer originating from the United States, my main hobbies are gaming, and modding games (best at x86/x64, some little knowledge about ARM and PowerPC) and writing code (mainly Rust, C++ and Python, have experience with many other languages). 
 
 I have experience with (and like doing):
 * High-level networking (HTTP servers, websockets applications, network admin stuff)
-* Low-level networking (raw TCP/UDP sockets, binary serialization, NAT traversal)
 * Async/concurrent programming (in Rust and C++)
 * Optimization and profiling, always trying to write very fast code
 * Low-level computer architecture (writing assembly/SIMD code, reverse-engineering and debugging applications)
 * Cryptography and security (big fan of jwt-like tokens, blake3 and XChaCha20Poly1305, many of my network projects incorporate end-to-end encryption :) )
 * Complaining about the tiniest inefficiencies and formatting errors when reviewing PRs
-
-You most likely know me as the creator of **[Globed](https://github.com/GlobedGD/globed2)**, a multiplayer mod for Geometry Dash and arguably one of the most popular [Geode](https://geode-sdk.org/) mods. On top of that, I am a lead developer of Geode too :)
-
-Some other notable projects I've made:
-* [Argon](https://github.com/GlobedGD/argon) - a modern authentication API for Geometry Dash accounts, used by many mods
-* [Arc](https://github.com/dankmeme01/arc) - a C++23 async runtime, similar to [Tokio](https://tokio.rs/); used by Geode, Globed and more!
-* [qsox](https://github.com/dankmeme01/qsox) - a cross-platform C++ abstraction for sockets, with API similar to Rust's `std::net` module
-* [wsx](https://github.com/dankmeme01/wsx) - a C++ WebSockets library with sync/async API and simple yet very configurable TLS design
-* [Blaze](https://github.com/dankmeme01/blaze) - a WIP Geometry Dash optimization mod. Currently mostly optimizes game loading & saving, which in the future will expand to more
-* Qunet ([cpp](https://github.com/dankmeme01/qunet-cpp), [rust](https://github.com/dankmeme01/qunet)) - an advanced network library used by Globed, that aims to abstract away intricacies of various platforms, IPv4 vs IPv6, TCP vs UDP, compression, etc. and make it easy to write robust network clients and servers (primarily made for games).
-
-If you want to contact me, the best place is on Discord (@dank_meme01). I don't actively use any other social media.
